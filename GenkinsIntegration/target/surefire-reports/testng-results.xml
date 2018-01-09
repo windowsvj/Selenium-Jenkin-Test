@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test1.NewTest" duration-ms="36164" started-at="2018-01-09T07:11:10Z" finished-at="2018-01-09T07:11:46Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="36164" started-at="2018-01-09T07:11:10Z" finished-at="2018-01-09T07:11:46Z">
+      <class name="Test1.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Test1.NewTest@668bc3d5]" name="beforeClass" is-config="true" duration-ms="3263" started-at="2018-01-09T12:41:10Z" finished-at="2018-01-09T12:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="OpenURL()[pri:0, instance:Test1.NewTest@668bc3d5]" name="OpenURL" duration-ms="31726" started-at="2018-01-09T12:41:14Z" finished-at="2018-01-09T12:41:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Test1.NewTest@668bc3d5]" name="afterClass" is-config="true" duration-ms="1157" started-at="2018-01-09T12:41:45Z" finished-at="2018-01-09T12:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Test1.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Test1.NewTest -->
+</testng-results>
